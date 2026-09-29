@@ -8,8 +8,8 @@ module.exports = {
     discord: {
         id: process.env.DISCORD_ID,
         prefix: '$',
-        footer: ``, 
-        botInvite: ``,
+        footer: `Arbor Bot`, 
+        botInvite: `https://dsc.gg/arbor`,
         serverInvite: "https://dsc.gg/arbor",
     },
 
